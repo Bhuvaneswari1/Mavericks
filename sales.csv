@@ -1,0 +1,7 @@
+record_id,region,actual_inr,target_inr
+S01,North,120000,100000
+S02,South,90000,100000
+S03,East,75000,80000
+S04,West,110000,100000
+S05,Central,60000,75000
+S06,Online,150000,125000
