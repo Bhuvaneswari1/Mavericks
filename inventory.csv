@@ -1,0 +1,7 @@
+item_id,item,stock,reorder_point,target_stock,unit_cost_inr
+I01,Notebook,20,30,100,50
+I02,Pen pack,60,40,120,100
+I03,Marker,10,20,50,80
+I04,Folder,15,15,60,30
+I05,Stapler,8,10,25,200
+I06,Desk pad,25,20,50,150
