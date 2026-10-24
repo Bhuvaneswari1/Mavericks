@@ -1,0 +1,5 @@
+project_id,project,planned_tasks,completed_tasks,open_blockers,owner
+P01,Website refresh,20,15,2,Design
+P02,CRM cleanup,10,10,0,Sales Operations
+P03,Helpdesk rollout,12,6,3,IT
+P04,Training portal,8,6,0,Learning

@@ -1,0 +1,3 @@
+RR1: Completion = completed_tasks / planned_tasks * 100.
+RR2: Red if open_blockers >= 3; otherwise Amber if open_blockers > 0 or completion < 75%; otherwise Green.
+RR3: No deadline, budget, root cause or ETA is provided. Do not invent one.
