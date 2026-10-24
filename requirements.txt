@@ -1,0 +1,11 @@
+# Python 3.11 recommended. Compatible ranges; freeze after trainer rehearsal.
+openai>=1.68,<3
+python-dotenv>=1.0,<2
+pypdf>=5,<7
+streamlit>=1.42,<2
+langgraph>=1.0,<2
+langsmith>=0.3,<1
+langchain-core>=1,<2
+langchain-chroma>=1,<2
+langchain-huggingface>=1,<2
+sentence-transformers>=3,<6

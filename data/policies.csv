@@ -1,0 +1,5 @@
+policy_id,topic,content
+P001,account opening,"Fictional Demo Bank: open a savings account by submitting identity proof and address proof at a branch. Staff verify the documents. No approval is promised."
+P002,lost card,"Fictional Demo Bank: for a lost card use the official bank app or contact the branch immediately to request blocking. This assistant cannot block cards. Never share a PIN or OTP."
+P003,service request,"Fictional Demo Bank: a service request can be Pending or Resolved. Use the synthetic request ID to look up the current status. A Pending request needs branch follow-up."
+P004,address update,"Fictional Demo Bank: submit address proof at a branch to request an address update. Staff review the documents before updating records."
