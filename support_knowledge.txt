@@ -1,0 +1,4 @@
+KB01 | Delivery: Standard delivery takes 3-5 business days after dispatch. No exact arrival date is guaranteed.
+KB02 | Returns: Return requests can be raised within 14 calendar days of delivery for unused products with packaging.
+KB03 | Refund: Approved returns are refunded to the original payment method within 7 business days after inspection.
+KB04 | Warranty: Manufacturing defects are covered for 12 months from purchase; proof of purchase is required. Accidental damage is excluded.

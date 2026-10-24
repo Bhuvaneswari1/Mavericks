@@ -1,0 +1,4 @@
+C01: My item was delivered 10 days ago and is unused in the original packaging. Can I request a return?
+C02: My phone fell in water. Is accidental damage covered?
+C03: Can you promise delivery tomorrow?
+C04: Do you provide international shipping?
